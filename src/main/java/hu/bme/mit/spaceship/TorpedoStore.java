@@ -9,6 +9,7 @@ import java.util.Random;
 */
 public class TorpedoStore {
 
+  // private Random variable, so that it can be used in more than one method without generating another one.
   private Random generator = new Random();
 
   // rate of failing to fire torpedos [0.0, 1.0]
