@@ -1,4 +1,4 @@
-![Workflow status](https://github.com/vargab454/se-lab/actions/workflows/Java%20CI%20with%20Maven/badge.svg)
+[![Java CI with Maven](https://github.com/vargab454/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/vargab454/se-lab/actions/workflows/maven.yml)
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
